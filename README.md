@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Delpha05
-- 👀 I’m interested in Web Development and Design
+- 👋 Hi, I’m Devlin
+- 👀 I’m interested in Web and Blockchain Development
 - 🌱 I’m currently learning Full Stack Development
 - 📫 You can reach me at - devlinsaha@gmail.com
 
