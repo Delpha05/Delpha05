@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Devlin</h1>
 <h3 align="center">A passionate Web and Blockchain Developer</h3>
 
-- 🔭 I’m currently working on **Creating my own blockchain token**
+- 🔭 I’m currently working on **Creating a Bus Reservation App**
 
-- 🌱 I’m currently learning **Motoko, Internet Computer**
-
-- 🤝 I’m looking for help with **Advanced Blockchain technologies**
+- 🌱 I’m currently learning **Advanced MERN Stack Technologies**
 
 - 📫 How to reach me **devlinsaha@gmail.com**
 
